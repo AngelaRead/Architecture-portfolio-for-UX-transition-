@@ -30,6 +30,12 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 
 **Tools**: ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, SketchUp 
 
+## 🚀 What's Next
+
+I'm currently completing the **Google UX Design Professional Certificate** and developing UX-specific case studies while building foundational knowledge in front-end development (HTML, CSS, JavaScript) to better collaborate with developers. This repository will be updated with digital product design work as I continue my transition into UX/UI.
+
+**UX/UI Tools & Skills I'm Learning**: Figma, HTML/CSS foundations, user research and prototyping methodologies
+
 ---
 
 ## License
