@@ -11,9 +11,7 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 - **Problem-Solving** — Balancing constraints (budget, code, site) with user experience goals
 
 ## 📄 Portfolio Document
-[📎 View Architecture Portfolio (PDF)](./2016-2023 Architecture portfolio.pdf)
-
-> Note: The link above must match the PDF filename exactly (including spaces and capitalization). If you prefer a safer filename (recommended), rename the PDF to `2016-2023-Architecture-Portfolio.pdf` and update the link to `./2016-2023-Architecture-Portfolio.pdf`.
+[📎 View Architecture Portfolio (PDF)](./2016-2023-Architecture-Portfolio.pdf)
 
 ### What's Inside
 - Residential renovation with before/after analysis  
