@@ -32,9 +32,12 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 
 ## 🚀 What's Next
 
-I'm currently completing the **Google UX Design Professional Certificate** and developing UX-specific case studies while building foundational knowledge in front-end development (HTML, CSS, JavaScript) to better collaborate with developers. This repository will be updated with digital product design work as I continue my transition into UX/UI.
+I'm currently completing the **Google UX Design Professional Certificate** and developing UX-specific case studies. With foundational knowledge in HTML, CSS, and JavaScript (Mimo Full-Stack Certificate), I'm now deepening my front-end skills through practical projects to bridge design and development. This repository will be updated with digital product design work and code-based prototypes.
 
-**UX/UI Tools & Skills I'm Learning**: Figma, HTML/CSS foundations, user research and prototyping methodologies
+**Skills & Tools:**
+- **UX/UI**: Figma, user research, prototyping methodologies
+- **Architecture**: ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, SketchUp  
+- **Development Foundations**: HTML, CSS, JavaScript basics
 
 ---
 
