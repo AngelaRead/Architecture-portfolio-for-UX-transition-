@@ -11,7 +11,9 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 - **Problem-Solving** — Balancing constraints (budget, code, site) with user experience goals
 
 ## 📄 Portfolio Document
-[📎 View Architecture Portfolio (PDF)](./ANGELAREADportfolio.pdf)
+[📎 View Architecture Portfolio (PDF)](./2016-2023 Architecture portfolio.pdf)
+
+> Note: The link above must match the PDF filename exactly (including spaces and capitalization). If you prefer a safer filename (recommended), rename the PDF to `2016-2023-Architecture-Portfolio.pdf` and update the link to `./2016-2023-Architecture-Portfolio.pdf`.
 
 ### What's Inside
 - Residential renovation with before/after analysis  
@@ -28,15 +30,9 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 | 3D modeling & rendering | Prototyping & visual design |
 | Client presentations | Stakeholder communication & design critiques |
 
-**Tools**: ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, SketchUp
-
-## 🔍 Quick case highlights
-- Project A — Role: Lead Designer. Key UX relevance: spatial analysis → user journey mapping; prototyping process parallels wireframing.
-- Project B — Role: Project Architect. Key UX relevance: data-informed decisions (solar/daylight studies) → usability testing mindset.
+**Tools**: ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, SketchUp 
 
 ---
 
-*Note: This PDF contains redacted work samples. Original files and additional projects available upon request.*
-
 ## License
-© 2025 Angela Read. All rights reserved.
+© 2026 Angela Read. All rights reserved.
