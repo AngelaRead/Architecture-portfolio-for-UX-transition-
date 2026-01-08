@@ -40,7 +40,7 @@ Tools (selected): ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, Sk
 
 ## 🚀 What's Next
 
-I recently completed the **Google UX Design Professional Certificate** and the **Mimo Full-Stack Development Certificate** and am continuing to build practical UX and front-end experience. I'm also progressing through FreeCodeCamp and actively using FreeCodeCamp projects while building UX case studies to bridge design and development.
+I recently completed the **Google UX Design Professional Certificate** and the **Mimo Full-Stack Development Certificate** and am continuing to build practical UX and front-end experience. I am also progressing through FreeCodeCamp while creating UX case studies that bridge design and development. This repository will be updated with digital product design work and code-based prototypes.
 
 Focus areas:
 - UX/Product: user research, interaction design, prototyping, usability testing
@@ -51,3 +51,4 @@ Focus areas:
 
 ## License
 © 2026 Angela Read. All rights reserved.
+
