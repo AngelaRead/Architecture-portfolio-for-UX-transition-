@@ -19,6 +19,13 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 - 3D renderings demonstrating design communication  
 - Solar analysis and data-driven design decisions
 
+## 🏅 Certificates
+- [Google UX Design Professional Certificate (PDF)](./doc/Google-UX-Design-Professional-Certificate.pdf) — Completed
+- [Mimo Full-Stack Development Certificate (PDF)](./doc/Mimo-Full-Stack-Certificate.pdf) — Completed
+- FreeCodeCamp — In progress (continuing coursework and projects); also using FreeCodeCamp projects while building UX case studies
+
+(If the certificate PDFs are not yet in the repo, add them to ./doc/ and the links above will work. Tell me if you want me to upload them.)
+
 ## 🛠️ Skills & Tools
 
 | Architecture | Product & UX Translation |
@@ -33,7 +40,7 @@ Tools (selected): ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, Sk
 
 ## 🚀 What's Next
 
-I'm currently completing the **Google UX Design Professional Certificate** and developing UX-specific case studies. With foundational knowledge in HTML, CSS, and JavaScript (Mimo Full-Stack Certificate), I'm deepening my front-end skills through practical projects to bridge design and development. This repository will be updated with digital product design work and code-based prototypes.
+I recently completed the **Google UX Design Professional Certificate** and the **Mimo Full-Stack Development Certificate** and am continuing to build practical UX and front-end experience. I'm also progressing through FreeCodeCamp and actively using FreeCodeCamp projects while building UX case studies to bridge design and development.
 
 Focus areas:
 - UX/Product: user research, interaction design, prototyping, usability testing
