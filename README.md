@@ -21,7 +21,7 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 
 ## 🏅 Certificates
 - [Google UX Design Professional Certificate (PDF)](./docs/Google-UX-Design-Professional-Certificate.pdf) — Completed
-- [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Certificate.pdf) — Completed
+- [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) — Completed
 - FreeCodeCamp — In progress (continuing coursework and projects)
 
 ## 🛠️ Skills & Tools
