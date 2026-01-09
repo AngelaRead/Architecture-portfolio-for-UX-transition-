@@ -24,7 +24,7 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 - [Mimo Full-Stack Development Certificate (PDF)](./docs/Mimo-Full-Stack-Development-Certificate.pdf) — Completed
 - FreeCodeCamp — In progress (continuing coursework and projects)
 
-## 🛠️ Skills & Tools
+## 🔑 Key Skills
 
 | Architecture | Product & UX Translation |
 |--------------|--------------------------|
@@ -34,7 +34,26 @@ This portfolio showcases my architecture work with an emphasis on competencies t
 | 3D modeling & rendering | Prototyping & visual design |
 | Client presentations | Stakeholder communication & design critiques |
 
-Tools (selected): ArchiCAD, Revit, Adobe Creative Suite, AutoCAD, Twinmotion, SketchUp, Figma
+## 🛠️ Tools & Technologies
+
+**Design:**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+**Development:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Architecture Tools:**
+
+![Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-801010?style=for-the-badge&logo=autocad&logoColor=white)
 
 ## 🚀 What's Next
 
@@ -43,11 +62,7 @@ I recently completed the **Google UX Design Professional Certificate** and the *
 Focus areas:
 - UX/Product: user research, interaction design, prototyping, usability testing
 - Architecture: technical drawings, spatial analysis, design communication
-- Development foundations:
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+- Development foundations: HTML5, CSS3, JavaScript
 ---
 
 ## License
